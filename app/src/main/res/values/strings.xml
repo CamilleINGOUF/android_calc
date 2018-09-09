@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">CalcINGOUF</string>
+    <string name="copyright">Copyright INGOUF 2018/2019</string>
+    <string name="enterValue">Enter value</string>
+    <string name="plus">plus</string>
+    <string name="minus">minus</string>
+    <string name="times">times</string>
+    <string name="divide">divide</string>
+    <string name="result">result</string>
+    <string name="reset">reset</string>
+    <string name="equal">=</string>
+    <string name="leave">leave</string>
+</resources>
