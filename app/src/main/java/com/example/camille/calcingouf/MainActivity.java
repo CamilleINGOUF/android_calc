@@ -120,6 +120,6 @@ public class MainActivity extends AppCompatActivity {
             result.setText("" + val);
         }
         else
-            Toast.makeText(MainActivity.this,"Can't divide by 0",Toast.LENGTH_SHORT).show();
+            Toast.makeText(MainActivity.this,R.string.error_divid0,Toast.LENGTH_SHORT).show();
     }
 }

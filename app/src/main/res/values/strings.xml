@@ -10,4 +10,5 @@
     <string name="reset">reset</string>
     <string name="equal">=</string>
     <string name="leave">leave</string>
+    <string name="error_divid0">cannot divide by zero</string>
 </resources>
